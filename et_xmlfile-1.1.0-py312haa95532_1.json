@@ -1,0 +1,44 @@
+{
+  "build": "py312haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\et_xmlfile-1.1.0-py312haa95532_1",
+  "files": [
+    "Lib/site-packages/et_xmlfile-1.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/et_xmlfile-1.1.0.dist-info/METADATA",
+    "Lib/site-packages/et_xmlfile-1.1.0.dist-info/RECORD",
+    "Lib/site-packages/et_xmlfile-1.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/et_xmlfile-1.1.0.dist-info/WHEEL",
+    "Lib/site-packages/et_xmlfile-1.1.0.dist-info/direct_url.json",
+    "Lib/site-packages/et_xmlfile-1.1.0.dist-info/top_level.txt",
+    "Lib/site-packages/et_xmlfile/__init__.py",
+    "Lib/site-packages/et_xmlfile/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/et_xmlfile/__pycache__/xmlfile.cpython-312.pyc",
+    "Lib/site-packages/et_xmlfile/xmlfile.py",
+    ".nonadmin"
+  ],
+  "fn": "et_xmlfile-1.1.0-py312haa95532_1.conda",
+  "license": "MIT AND PSF-2.0",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\et_xmlfile-1.1.0-py312haa95532_1",
+    "type": 1
+  },
+  "md5": "20ea8a79436a9b53b626b82921cef12f",
+  "name": "et_xmlfile",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\et_xmlfile-1.1.0-py312haa95532_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::et_xmlfile==1.1.0=py312haa95532_1[md5=20ea8a79436a9b53b626b82921cef12f]",
+  "sha256": "e93359341dea273b23281185e21c11c05feb2085d221a50c32402a8448fb5cf9",
+  "size": 12450,
+  "subdir": "win-64",
+  "timestamp": 1699500395000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/et_xmlfile-1.1.0-py312haa95532_1.conda",
+  "version": "1.1.0"
+}
